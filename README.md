@@ -9,6 +9,7 @@
 
 ### 2021
 - <a name="todo"></a> One Shot Face Swapping on Megapixels. (**CVPR 2021**) [[paper](https://arxiv.org/pdf/2106.09965)] [[code_unofficial](https://github.com/mindslab-ai/hififace)] 
+- <a name="todo"></a> FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.pdf)]
 - <a name="todo"></a> Information Bottleneck Disentanglement for Identity Swapping (**CVPR 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Information_Bottleneck_Disentanglement_for_Identity_Swapping_CVPR_2021_paper.pdf)]
 - <a name="todo"></a> HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping (**IJCAI 2021**) [[paper](https://arxiv.org/abs/2105.04932)] [[code](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)] 
 
