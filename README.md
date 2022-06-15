@@ -6,6 +6,8 @@
 - <a name="todo"></a> MobileFaceSwap: A Lightweight Framework for Video Face Swapping (**AAAI 2022**) [[paper](https://arxiv.org/abs/2201.03808)] [[code](https://github.com/Seanseattle/MobileFaceSwap)] 
 - <a name="todo"></a> FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment (**PAMI 2022**) [[paper](https://arxiv.org/abs/2202.12972)] 
 - <a name="todo"></a> Few-Shot Head Swapping in the Wild (**CVPR 2022**) [[paper](https://arxiv.org/abs/2204.13100)] [[code](https://github.com/jmliu88/HeSer)] 
+- <a name="todo"></a> High-resolution Face Swapping via Latent Semantics Disentanglement (**CVPR 2022**) [[paper](https://arxiv.org/abs/2203.15958)] [[code](https://github.com/cnnlstm/FSLSD_HiRes)] 
+
 
 ### 2021
 - <a name="todo"></a> One Shot Face Swapping on Megapixels. (**CVPR 2021**) [[paper](https://arxiv.org/pdf/2106.09965)] [[code_unofficial](https://github.com/mindslab-ai/hififace)] 
