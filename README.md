@@ -3,6 +3,8 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> Smooth-Swap: A Simple Enhancement for Face-Swapping With Smoothness (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Smooth-Swap_A_Simple_Enhancement_for_Face-Swapping_With_Smoothness_CVPR_2022_paper.pdf)] 
+- <a name="todo"></a> Region-Aware Face Swapping (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Region-Aware_Face_Swapping_CVPR_2022_paper.pdf)] [[code](https://github.com/xc-csc101/RAFSwap)] 
 - <a name="todo"></a> MobileFaceSwap: A Lightweight Framework for Video Face Swapping (**AAAI 2022**) [[paper](https://arxiv.org/abs/2201.03808)] [[code](https://github.com/Seanseattle/MobileFaceSwap)] 
 - <a name="todo"></a> FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment (**PAMI 2022**) [[paper](https://arxiv.org/abs/2202.12972)] 
 - <a name="todo"></a> Few-Shot Head Swapping in the Wild (**CVPR 2022**) [[paper](https://arxiv.org/abs/2204.13100)] [[code](https://github.com/jmliu88/HeSer)] 
