@@ -3,6 +3,7 @@
 ## Papers
 
 ### 2022
+- <a name="todo"></a> StyleSwap: Style-Based Generator Empowers Robust Face Swapping (**ECCV 2022**) [[paper](http://arxiv.org/abs/2209.13514)] [[code](https://github.com/Seanseattle/StyleSwap)]
 - <a name="todo"></a> Smooth-Swap: A Simple Enhancement for Face-Swapping With Smoothness (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Smooth-Swap_A_Simple_Enhancement_for_Face-Swapping_With_Smoothness_CVPR_2022_paper.pdf)] 
 - <a name="todo"></a> Region-Aware Face Swapping (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Region-Aware_Face_Swapping_CVPR_2022_paper.pdf)] [[code](https://github.com/xc-csc101/RAFSwap)] 
 - <a name="todo"></a> MobileFaceSwap: A Lightweight Framework for Video Face Swapping (**AAAI 2022**) [[paper](https://arxiv.org/abs/2201.03808)] [[code](https://github.com/Seanseattle/MobileFaceSwap)] 
