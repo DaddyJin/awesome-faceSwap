@@ -2,6 +2,9 @@
 
 ## Papers
 
+### 2023
+- <a name="todo"></a> FlowFace: Semantic Flow-guided Shape-aware Face Swapping (**AAAI 2023**) [[paper](https://arxiv.org/pdf/2212.02797.pdf)]
+
 ### 2022
 - <a name="todo"></a> StyleSwap: Style-Based Generator Empowers Robust Face Swapping (**ECCV 2022**) [[paper](http://arxiv.org/abs/2209.13514)] [[code](https://github.com/Seanseattle/StyleSwap)]
 - <a name="todo"></a> Smooth-Swap: A Simple Enhancement for Face-Swapping With Smoothness (**CVPR 2022**) [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Smooth-Swap_A_Simple_Enhancement_for_Face-Swapping_With_Smoothness_CVPR_2022_paper.pdf)] 
