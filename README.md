@@ -15,6 +15,7 @@
 - <a name="todo"></a> FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment (**PAMI 2022**) [[paper](https://arxiv.org/abs/2202.12972)] 
 - <a name="todo"></a> Few-Shot Head Swapping in the Wild (**CVPR 2022**) [[paper](https://arxiv.org/abs/2204.13100)] [[code](https://github.com/jmliu88/HeSer)] 
 - <a name="todo"></a> High-resolution Face Swapping via Latent Semantics Disentanglement (**CVPR 2022**) [[paper](https://arxiv.org/abs/2203.15958)] [[code](https://github.com/cnnlstm/FSLSD_HiRes)] 
+- <a name="todo"></a> A new face swap method for image and video domains: a technical report (**CVPR 2022**) [[paper](https://arxiv.org/abs/2202.03046)]
 
 
 ### 2021
